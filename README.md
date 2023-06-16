@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img align="center" alt="Coding" width="900" src="assets/programmer.gif">
+<img align="center" alt="Coding" width="1000" src="assets/programmer.gif">
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
