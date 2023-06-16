@@ -10,8 +10,7 @@
 <img align="center" alt="Coding" width="800" src="assets/programmer.gif">
 </p>
 
-<br>
-
+### 👨🏻‍💻 &nbsp;About Me
 - 🛠 I'm backend developer.
 - 💡 I like to explore new technologies and develop software solutions.
 - 📖 Learning FastAPI, asyncio.
@@ -29,5 +28,5 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktorkislyak1996&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="viktorkislyak1996" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktorkislyak1996&show_icons=true&locale=en&layout=compact" alt="viktorkislyak1996" /></p>
 
